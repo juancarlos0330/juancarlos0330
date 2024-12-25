@@ -1,7 +1,3 @@
-## 👋 Hi
-
-I'm Juan Carlos, a Frontend Engineer with a passion for building and learning new things. I'm currently working as a FullStack developer at [Stellary](https://stellary.com) and I love to explore new technologies and tools.
-
 ## 📝 About me
 
 I'm also a big fan of open source and contributing to projects that I find interesting. If you're interested in working with me, feel free to reach out!
